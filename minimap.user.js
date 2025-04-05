@@ -7,8 +7,8 @@
 // @match        https://pixelcanvas.io/*
 // @match        http://pixelcanvas.io/*
 // @homepage     https://dsc.gg/BREP/
-// @updateURL    https://github.com/yOriowm/BRAP-Minimap/raw/main/minimap.user.js
-// @downloadURL  https://github.com/yOriowm/BRAP-Minimap/raw/main/minimap.user.js
+// @updateURL    https://github.com/phoniks2k/BRAP-Minimap/raw/main/minimap.user.js
+// @downloadURL  https://github.com/phoniks2k/BRAP-Minimap/raw/main/minimap.user.js
 // @grant        none
 // @run-at       document-start
 // ==/UserScript==
