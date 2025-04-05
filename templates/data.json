@@ -362,5 +362,12 @@
     "y": 9936,
     "width": 92,
     "height": 64
+},
+  "porrao": {
+    "name": "porra.png",
+    "x": -709,
+    "y": 9637,
+    "width": 218,
+    "height": 234
 }
 }
